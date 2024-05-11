@@ -70,7 +70,7 @@ public class TestMaven {
 				Thread.sleep(2000);
 				driver.findElement(By.xpath("(//div[@class=\"oxd-autocomplete-option\"])[3]//span")).click();
 				
-				System.out.println("Test pass Successfully");
+				
 				
 		
 	}	
