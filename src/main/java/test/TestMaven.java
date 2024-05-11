@@ -72,7 +72,7 @@ public class TestMaven {
 				
 				System.out.println("Test Pass");
 				
-		
+				System.out.println("Test Pass");
 	}	
 	
 	@AfterTest
