@@ -71,6 +71,7 @@ public class TestMaven {
 				driver.findElement(By.xpath("(//div[@class=\"oxd-autocomplete-option\"])[3]//span")).click();
 				
 				System.out.println("Test Pass");
+				System.out.println("Jenkins Test");
 				
 				
 	}	

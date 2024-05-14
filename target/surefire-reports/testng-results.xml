@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-11T15:54:03 IST" name="Suite" finished-at="2024-05-11T15:55:42 IST" duration-ms="99695">
+  <suite started-at="2024-05-14T11:42:44 IST" name="Suite" finished-at="2024-05-14T11:43:46 IST" duration-ms="61578">
     <groups>
     </groups>
-    <test started-at="2024-05-11T15:54:03 IST" name="Test" finished-at="2024-05-11T15:55:42 IST" duration-ms="99695">
+    <test started-at="2024-05-14T11:42:44 IST" name="Test" finished-at="2024-05-14T11:43:46 IST" duration-ms="61578">
       <class name="test.TestMaven">
-        <test-method signature="test()[pri:0, instance:test.TestMaven@1852a3ff]" started-at="2024-05-11T15:54:03 IST" name="test" finished-at="2024-05-11T15:55:42 IST" duration-ms="99305" status="PASS">
+        <test-method signature="test()[pri:0, instance:test.TestMaven@1852a3ff]" started-at="2024-05-14T11:42:44 IST" name="test" finished-at="2024-05-14T11:43:45 IST" duration-ms="61137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="quitTest()[pri:0, instance:test.TestMaven@1852a3ff]" started-at="2024-05-11T15:55:42 IST" name="quitTest" finished-at="2024-05-11T15:55:42 IST" duration-ms="339" status="PASS">
+        <test-method is-config="true" signature="quitTest()[pri:0, instance:test.TestMaven@1852a3ff]" started-at="2024-05-14T11:43:45 IST" name="quitTest" finished-at="2024-05-14T11:43:46 IST" duration-ms="402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitTest -->
